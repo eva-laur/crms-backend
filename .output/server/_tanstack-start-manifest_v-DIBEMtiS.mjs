@@ -1,0 +1,420 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-DIBEMtiS.js
+var tsrStartManifest = () => ({ routes: {
+	__root__: {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/__root.tsx",
+		children: ["/", "/app"],
+		preloads: ["/assets/index-FqPCZluA.js", "/assets/role-context-DU3CcDdc.js"],
+		scripts: [{ attrs: {
+			type: "module",
+			async: !0,
+			src: "/assets/index-FqPCZluA.js"
+		} }]
+	},
+	"/": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/index.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/routes-DMAm4nNW.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/user-DOAp2bAc.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/tabs-CAURRBmF.js"
+		]
+	},
+	"/app": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.tsx",
+		children: [
+			"/app/announcements",
+			"/app/assets",
+			"/app/audit",
+			"/app/bookings",
+			"/app/bus",
+			"/app/cancellations",
+			"/app/checkout",
+			"/app/config",
+			"/app/conflicts",
+			"/app/course-materials",
+			"/app/course-progress",
+			"/app/dashboard",
+			"/app/it-equipment",
+			"/app/library",
+			"/app/logbook",
+			"/app/profile",
+			"/app/reports",
+			"/app/results",
+			"/app/schedule",
+			"/app/users"
+		],
+		preloads: ["/assets/app-DJmYlmW3.js", "/assets/AppSidebar-DH9t408D.js"]
+	},
+	"/app/announcements": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.announcements.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.announcements-CvZBJ4lL.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/send-DI1Gu1tn.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/coursework-DqSiRqW6.js"
+		]
+	},
+	"/app/assets": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.assets.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.assets-B-e1h4qb.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/bookings-TpPXb1Lx.js"
+		]
+	},
+	"/app/audit": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.audit.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.audit-Ce0unJZa.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/activity-DGo8Tm8n.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/circle-x-DwVmBwZ1.js",
+			"/assets/clock-XjW-xgZu.js",
+			"/assets/download-D4OQOhhm.js",
+			"/assets/file-text-rP2XDp0s.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/user-DOAp2bAc.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js",
+			"/assets/dialog-BrgQ2usL.js"
+		]
+	},
+	"/app/bookings": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.bookings.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.bookings-DXvuXEzw.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/bus-XWXcjnf2.js"
+		]
+	},
+	"/app/bus": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.bus.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.bus-BzOS9elh.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/circle-alert-X0RxCnVF.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/circle-x-DwVmBwZ1.js",
+			"/assets/clock-XjW-xgZu.js",
+			"/assets/plus-COReXdw-.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/BarChart-CTj5MIHJ.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/dialog-BrgQ2usL.js",
+			"/assets/tabs-CAURRBmF.js",
+			"/assets/table-v8IQcqF3.js",
+			"/assets/generateCategoricalChart-FNx9YpLn.js",
+			"/assets/YAxis-PBX7nari.js"
+		]
+	},
+	"/app/cancellations": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.cancellations.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.cancellations-dCTr-Oj3.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/coursework-DqSiRqW6.js"
+		]
+	},
+	"/app/checkout": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.checkout.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.checkout-7V_OAYTy.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/package-check-iFAxm68h.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/users-BDnEz6hx.js",
+			"/assets/resources-CzzHN8LQ.js"
+		]
+	},
+	"/app/config": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.config.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.config-D_-jJaJ3.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/save-CZA8EBqG.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js"
+		]
+	},
+	"/app/conflicts": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.conflicts.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.conflicts-CCky8toP.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/circle-IubheVoa.js",
+			"/assets/clock-XjW-xgZu.js",
+			"/assets/shield-alert-CLjFvb-j.js",
+			"/assets/dist-BiWA0yO9.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js",
+			"/assets/dist-COSWEj7Y.js",
+			"/assets/dist-BxBcRp7L.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/dist-B2kMnfu5.js"
+		]
+	},
+	"/app/course-materials": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.course-materials.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.course-materials-h3E6F7en.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/cloud-upload-BJ85HvJn.js",
+			"/assets/download-D4OQOhhm.js",
+			"/assets/file-text-rP2XDp0s.js",
+			"/assets/send-DI1Gu1tn.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/coursework-DqSiRqW6.js",
+			"/assets/tabs-CAURRBmF.js",
+			"/assets/table-v8IQcqF3.js"
+		]
+	},
+	"/app/course-progress": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.course-progress.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.course-progress-CrFEki6Y.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/plus-COReXdw-.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/dialog-BrgQ2usL.js",
+			"/assets/progress--9sREMma.js"
+		]
+	},
+	"/app/dashboard": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.dashboard.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.dashboard-CVjY0ZrQ.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/activity-DGo8Tm8n.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/package-check-iFAxm68h.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/bus-XWXcjnf2.js",
+			"/assets/generateCategoricalChart-FNx9YpLn.js",
+			"/assets/PieChart-BaOMsUgj.js",
+			"/assets/YAxis-PBX7nari.js",
+			"/assets/users-BDnEz6hx.js",
+			"/assets/resources-CzzHN8LQ.js",
+			"/assets/progress--9sREMma.js"
+		]
+	},
+	"/app/it-equipment": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.it-equipment.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.it-equipment-CH7qStFD.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/package-check-iFAxm68h.js",
+			"/assets/plus-COReXdw-.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/dialog-BrgQ2usL.js",
+			"/assets/tabs-CAURRBmF.js",
+			"/assets/table-v8IQcqF3.js",
+			"/assets/generateCategoricalChart-FNx9YpLn.js",
+			"/assets/PieChart-BaOMsUgj.js",
+			"/assets/resources-CzzHN8LQ.js"
+		]
+	},
+	"/app/library": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.library.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.library-BfReypXa.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/plus-COReXdw-.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/dialog-BrgQ2usL.js",
+			"/assets/table-v8IQcqF3.js",
+			"/assets/resources-CzzHN8LQ.js"
+		]
+	},
+	"/app/logbook": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.logbook.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.logbook-B329Cy3E.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/circle-alert-X0RxCnVF.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/plus-COReXdw-.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/textarea-DaUPJ6mM.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/dialog-BrgQ2usL.js",
+			"/assets/users-BDnEz6hx.js",
+			"/assets/progress--9sREMma.js"
+		]
+	},
+	"/app/profile": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.profile.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.profile-FkJySJSO.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/cloud-upload-BJ85HvJn.js",
+			"/assets/download-D4OQOhhm.js",
+			"/assets/save-CZA8EBqG.js",
+			"/assets/user-DOAp2bAc.js",
+			"/assets/dist-BiWA0yO9.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/users-BDnEz6hx.js"
+		]
+	},
+	"/app/reports": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.reports.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.reports-DjYCls6c.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/chevron-right-D58zPOrK.js",
+			"/assets/circle-IubheVoa.js",
+			"/assets/download-D4OQOhhm.js",
+			"/assets/file-text-rP2XDp0s.js",
+			"/assets/BarChart-CTj5MIHJ.js",
+			"/assets/dist-BiWA0yO9.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/dist-COSWEj7Y.js",
+			"/assets/academic-CVHFRp3v.js",
+			"/assets/coursework-DqSiRqW6.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/bus-XWXcjnf2.js",
+			"/assets/dist-B2kMnfu5.js",
+			"/assets/generateCategoricalChart-FNx9YpLn.js",
+			"/assets/YAxis-PBX7nari.js"
+		]
+	},
+	"/app/results": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.results.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.results-D_2MGbkO.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/download-D4OQOhhm.js",
+			"/assets/file-text-rP2XDp0s.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/progress--9sREMma.js"
+		]
+	},
+	"/app/schedule": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.schedule.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.schedule-DF97DWmy.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/utils-jOn9Nw8q.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/chevron-right-D58zPOrK.js",
+			"/assets/circle-alert-X0RxCnVF.js",
+			"/assets/circle-check-Cfuajc3i.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/label-QbWOCL2U.js",
+			"/assets/bookings-TpPXb1Lx.js",
+			"/assets/resources-CzzHN8LQ.js"
+		]
+	},
+	"/app/users": {
+		filePath: "D:/Downloads/Mobile Devices/CAMPUS-RMS/campus-rmss/client/src/routes/app.users.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/app.users-D902t0TL.js",
+			"/assets/card-nh4V18N_.js",
+			"/assets/select-BdkL6idB.js",
+			"/assets/shield-alert-CLjFvb-j.js",
+			"/assets/trash-2-jonAY-og.js",
+			"/assets/button-BQyGKn-Y.js",
+			"/assets/input-u0Zz7mzh.js",
+			"/assets/table-v8IQcqF3.js",
+			"/assets/users-BDnEz6hx.js"
+		]
+	}
+} });
+//#endregion
+export { tsrStartManifest };

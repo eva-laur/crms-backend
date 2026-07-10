@@ -1,0 +1,1 @@
+import{d as e}from"./role-context-DU3CcDdc.js";var t=()=>e(`/bus/fleet`),n=()=>e(`/bus/routes`),r=()=>e(`/bus/reservations/my`),i=()=>e(`/bus/reservations`);export{n as i,t as n,r,i as t};
