@@ -1,1 +1,0 @@
-import{d as e}from"./role-context-DU3CcDdc.js";function t(){return e(`/users`)}function n(t){return e(`/users/lookup/${encodeURIComponent(t)}`)}function r(t,n){return e(`/users/${t}`,{method:`PUT`,body:n})}function i(t){return e(`/users/${t}`,{method:`DELETE`})}export{r as i,t as n,n as r,i as t};
